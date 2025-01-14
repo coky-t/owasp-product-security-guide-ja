@@ -16,6 +16,6 @@ This is the unofficial Japanese translation of the [OWASP Product Security Guide
 
 [MIT License](https://opensource.org/license/mit/)
 
-## Author (日本語訳)
+## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
