@@ -1,6 +1,9 @@
-# OWASP プロダクトセキュリティガイド 日本語版
+# OWASP Product Security Guide ja
 
-* [OWASP プロダクトセキュリティガイド 日本語版](README.md)
-* [OWASP プロダクトセキュリティガイド](Document/index.md)
-* [リーダー](Document/leaders.md)
-* [ライセンス](Document/LICENSE.md)
+- [OWASP Product Security Guide ja](README.md)
+
+## OWASP プロダクトセキュリティガイド 日本語版
+
+- [OWASP プロダクトセキュリティガイド](Document/index.md)
+- [リーダー](Document/leaders.md)
+- [ライセンス](Document/LICENSE.md)
