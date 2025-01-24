@@ -7,7 +7,7 @@ This is the unofficial Japanese translation of the [OWASP Product Security Guide
 - Project Site - <https://owasp.org/www-project-product-security-guide/>
 - Project Repository - <https://github.com/OWASP/www-project-product-security-guide>
 
-# OWASP プロダクトセキュリティガイド 日本語版
+## OWASP プロダクトセキュリティガイド 日本語版
 
 * [OWASP プロダクトセキュリティガイド](Document/index.md)
 * [リーダー](Document/leaders.md)
